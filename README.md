@@ -1,6 +1,6 @@
 # Snake Game in Python
 
-[Status: Archived](https://camo.githubusercontent.com/be89f6bd02473a8edf8d8e55b7195ae40c1e0637af027f892a6a37d59e04e97a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374617475732d41726368697665642d696d706f7274616e74)
+![Status: Archived](https://camo.githubusercontent.com/be89f6bd02473a8edf8d8e55b7195ae40c1e0637af027f892a6a37d59e04e97a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374617475732d41726368697665642d696d706f7274616e74)
 
 This is a simple Snake game written in Python, where the user can control the snake with the arrow keys. The game saves the high score as a file on the user's computer and displays it on the screen during the game, and it is automatically updated.
 
